@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DBConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DbType>sqlite</DbType>
+  <!--Data Source=192.168.1.112\\yzysql;Initial Catalog=YzyTestDB;User ID=sa;Password=198872;Connect Timeout=1-->
+  <ConnectString>Data Source= D:\\Yzy_DB;UTF8Encoding=True;Version=3;Pooling=True</ConnectString>
+</DBConfig>
